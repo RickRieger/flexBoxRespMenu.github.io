@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.container{
+    display:flex;
+    
+}
+main{
+    background-color: aquamarine;
+    width: 60vw;
+    height:80vh;
+
+}
+.left-sidebar{
+    background-color: burlywood;
+    width:20vw;
+    height:80vh;
+    
+
+}
+.right-sidebar{
+    background-color: darkblue;
+    width:20vw;
+    height:80vh;
+
+}
+footer{
+    background-color: darkmagenta;
+    height:20vh;
+
+}
